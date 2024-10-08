@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glitchdstudios&label=Profile%20views&color=0e75b6&style=flat" alt="glitchdstudios" /> </p>
 
-- 🌱 I’m currently refereshing myself on **3D Math**
+- 🌱 I’m currently refreshing myself on **3D Math**
 
 - 👨‍💻 All of my projects are available at [mmudgett.portfolio.site](mmudgett.portfolio.site)
 
